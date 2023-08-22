@@ -1,4 +1,4 @@
-package uniandes.depoo.taller0.modificacion;
+package uniandes.dpoo.taller0.modificacion;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

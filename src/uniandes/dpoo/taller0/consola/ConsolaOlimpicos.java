@@ -13,7 +13,7 @@ import uniandes.dpoo.taller0.modelo.Atleta;
 import uniandes.dpoo.taller0.modelo.Genero;
 import uniandes.dpoo.taller0.procesamiento.CalculadoraEstadisticas;
 import uniandes.dpoo.taller0.procesamiento.LoaderOlimpicos;
-import uniandes.depoo.taller0.modificacion.Modificacion;
+import uniandes.dpoo.taller0.modificacion.Modificacion;
 
 
 
